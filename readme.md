@@ -1,10 +1,10 @@
 ## aplicacion de comandos nodejs 
 
-recuerda isntalar los paquetes
+recuerda instalar los paquetes
 '''
 npm install
 '''
-paquetes que se instalaran:
+paquetes que se instalaran:\n
 '''
 -yargs
 '''
