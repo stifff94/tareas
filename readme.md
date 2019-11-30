@@ -3,7 +3,7 @@
 recuerda instalar los paquetes
 '''
 npm install
-'''
+
 paquetes que se instalaran:\n
 '''
 -yargs
@@ -22,7 +22,7 @@ comandos que se utilizaran:
 '''
 -listar "lista las tareas completadas o no completadas (true o false)" Ejemplo: node app listar -c false
 '''
- Nota: -d es la descripcion o nombre de la tarea, -c es un estado true o false
+Nota: -d es la descripcion o nombre de la tarea, -c es un estado true o false
  '''
 
 
