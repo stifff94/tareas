@@ -5,7 +5,7 @@ recuerda instalar los paquetes
 npm install
 
 
-paquetes que se instalaran:\n
+paquetes que se instalaran:
 
 -yargs
 
